@@ -16,7 +16,7 @@ Built and queried a movie database using SQL.
 Used JOINs and aggregate functions to analyze movie and actor trends.
 Identified top actors, directors, and most frequent movies.
 
-🔗 Project Folder: (add link later)
+🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Email-Campaign-Analysis
 
 📧 Email Campaign Analysis Dashboard – Power BI
 
