@@ -26,7 +26,7 @@ I specialize in transforming raw data into meaningful insights and building inte
 * Used **JOINs, GROUP BY, and aggregate functions** to analyze trends
 * Identified top actors, directors, and frequently produced movies
 
-🔗 [View Project](https://github.com/Renjimaradhakrishnan/data-analytics-portfolio)
+🔗 [View Project](https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Movie-Industry-SQL)
 
 ---
 
