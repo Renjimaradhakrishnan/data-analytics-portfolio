@@ -16,7 +16,7 @@ Built and queried a movie database using SQL.
 Used JOINs and aggregate functions to analyze movie and actor trends.
 Identified top actors, directors, and most frequent movies.
 
-🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Email-Campaign-Analysis
+🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio
 
 📧 Email Campaign Analysis Dashboard – Power BI
 
@@ -27,7 +27,7 @@ Created KPIs to track Open Rate, CTR, and Conversion Rate.
 Built an interactive dashboard to analyze campaign performance.
 Used slicers and drill features to identify high-performing campaigns.
 
-🔗 Project Folder: (add link later)
+🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Email-Campaign-Analysis
 
 🎬 Netflix Content Analysis – Power BI
 
@@ -37,7 +37,7 @@ Built a dashboard to analyze Netflix movies and TV shows dataset.
 Cleaned and transformed data using Power Query.
 Created visuals to explore genres, ratings, and content trends.
 
-🔗 Project Folder: (add link later)
+🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Netflix_Analysis
 
 🛒 Retail Business Analytics – Power BI
 
@@ -47,7 +47,7 @@ Developed a dashboard to track retail sales and profit performance.
 Created KPIs and data model using Power Query and DAX.
 Identified top products and key sales trends using interactive visuals.
 
-🔗 Project Folder: (add link later)
+🔗 Project Folder:https://github.com/Renjimaradhakrishnan/data-analytics-portfolio/tree/main/Sales-Dashboard
 
 📫 Contact
 LinkedIn:linkedin.com/in/renjima-m-r
